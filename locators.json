@@ -1,0 +1,15 @@
+{
+    "CSS - username - textfield": {
+        "screenshot": "",
+        "source": "",
+        "strategy": "id",
+        "type": "browser",
+        "value": "username"
+    },
+    "username - textfield": {
+        "confidence": 80.0,
+        "path": ".images\\username-textfield-path.png",
+        "source": null,
+        "type": "image"
+    }
+}

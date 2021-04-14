@@ -1,0 +1,11 @@
+==============================================================================
+Tasks :: Robot to enter weekly sales data into the RobotSpareBin Industries...
+==============================================================================
+Insert the sales datta for the week and export it as a PDF            | PASS |
+------------------------------------------------------------------------------
+Tasks :: Robot to enter weekly sales data into the RobotSpareBin I... | PASS |
+1 critical task, 1 passed, 0 failed
+1 task total, 1 passed, 0 failed
+==============================================================================
+Output:  C:\ProgramData\Temp\rcceb871\AppData\Local\Temp\59_437900_182525899_1\workarea60753074\output\output.xml
+Log:     C:\ProgramData\Temp\rcceb871\AppData\Local\Temp\59_437900_182525899_1\workarea60753074\output\log.html

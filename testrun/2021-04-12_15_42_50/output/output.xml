@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.2.2 (Python 3.7.5 on win32)" generated="20210412 15:45:29.222" rpa="true">
+<suite id="s1" name="Tasks" source="C:\ProgramData\Temp\rcceb871\AppData\Local\Temp\39_351214_696857100_1\workarea6073ddda\tasks.robot">
+<test id="s1-t1" name="Say hello to the world">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>Hello World!</arg>
+</arguments>
+<msg timestamp="20210412 15:45:29.284" level="INFO">Hello World!</msg>
+<status status="PASS" starttime="20210412 15:45:29.284" endtime="20210412 15:45:29.284"></status>
+</kw>
+<status status="PASS" starttime="20210412 15:45:29.283" endtime="20210412 15:45:29.285" critical="yes"></status>
+</test>
+<doc>Starter robot for the Beginners' course.</doc>
+<status status="PASS" starttime="20210412 15:45:29.225" endtime="20210412 15:45:29.285"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0">Critical Tasks</stat>
+<stat pass="1" fail="0">All Tasks</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" id="s1" name="Tasks">Tasks</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

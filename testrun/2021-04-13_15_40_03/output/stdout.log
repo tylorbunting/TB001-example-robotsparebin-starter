@@ -1,0 +1,12 @@
+==============================================================================
+Tasks :: Robot to enter weekly sales data into the RobotSpareBin Industries...
+==============================================================================
+Insert the sales datta for the week and export it as a PDF            | FAIL |
+TypeError: sequence item 0: expected str instance, int found
+------------------------------------------------------------------------------
+Tasks :: Robot to enter weekly sales data into the RobotSpareBin I... | FAIL |
+1 critical task, 0 passed, 1 failed
+1 task total, 0 passed, 1 failed
+==============================================================================
+Output:  C:\ProgramData\Temp\rcceb871\AppData\Local\Temp\58_437452_13555599_1\workarea60752eb3\output\output.xml
+Log:     C:\ProgramData\Temp\rcceb871\AppData\Local\Temp\58_437452_13555599_1\workarea60752eb3\output\log.html
