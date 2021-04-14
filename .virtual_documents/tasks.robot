@@ -26,7 +26,7 @@ Download The Excel File
 
 *** Keywords ***
 Fill And Submit The Form
-    Input Text    firstname    Tylordhellowworld
+    Input Text    firstname    Tylord
     Input Text    lastname    Bunting
     Input Text    salesresult    123
     Select From List By Value    salestarget    10000
